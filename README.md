@@ -1,4 +1,4 @@
 ProgrammingAssignment2
 ======================
 
-Cousera - R Programming
+Coursera Class - R Programming
